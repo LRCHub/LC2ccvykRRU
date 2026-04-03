@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "阿波弁",
   "base_artist": "Watson",
-  "createdAt": "2026-03-23T19:21:12.541363Z",
+  "createdAt": "2026-04-03T14:37:30.722633Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "Watson",
       "has_synced": false,
       "path": "select/pl_01_阿波弁_Watson.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "阿波弁",
+      "artist": "Watson",
+      "has_synced": false,
+      "path": "select/localdb_01_阿波弁_Watson.txt",
+      "repo_name": "LC2ccvykRRU"
     }
   ]
 }
